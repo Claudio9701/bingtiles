@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bingtiles-Claudio9701", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Claudio Ortega",
     author_email="claudio.rtega2701@gmail.com",
     description="A small library for Bing Maps Sytstem. Adapted from Microsoft Official Docs",
